@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 
+int main(void)
 void printchar.c
 
 {
@@ -18,16 +19,16 @@ void printchar.c
 				case 'c':
 			{
 				int arg = va_arg(args, int);
-				_putchar.c(arg);
+				_putchar(arg);
 				break;
 			}
 				default:
-			_putchar.c(format[i]);
+			_putchar(format[i]);
 			}
 		}
 		else
 		{
-			_putchar.c(format[i]);
+			_putchar(format[i]);
 		}
 	}
 	va_end(args);
