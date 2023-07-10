@@ -1,0 +1,17 @@
+.\" Manpage for _printf
+.\" contact 6689@holbertonstudents.com for corrections or typos.
+.TH man 8 "1.0" "_printf man page"
+.SH NAME
+_printf
+.SH SYNOPSIS
+nicholasyoung548 WillMeilahn
+.SH DESCRIPTION
+_printf is a function that prints a string of arguments
+.SH OPTIONS
+insert variables here
+.SH SEE ALSO
+man 3 printf
+.SH BUGS
+No known bugs for now...
+.SH AUTHOR
+Will Meilahn and Nicholas Young
