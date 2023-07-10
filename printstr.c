@@ -2,8 +2,7 @@
 #include <stdarg.h>
 
 int main(void)
-void printchar.c
-
+void printstr.c
 {
 	va_list args;
 	va_start(args, format);
