@@ -6,8 +6,4 @@ int _printf(char *format, ...)
 	va_list args;
 	va_start(args, format);
 
-	for (int i=0; format [i] != '\0'; i++)
-	{
-		if (format[i] == '%');
-		i++
-		
+	for (int i=0; 
