@@ -1,0 +1,6 @@
+#include <starg.h>
+
+{
+int num = d;
+_putchar.c(%d, num);
+}
